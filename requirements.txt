@@ -1,0 +1,10 @@
+fugashi==1.2.1
+ipadic==1.0.0
+ipykernel==6.22.0
+ipython==8.11.0
+ipywidgets==8.0.4
+mecab-python3==1.0.6
+numpy==1.24.2
+snscrape==0.6.2.20230320
+torch==2.0.0
+transformers==4.27.2
